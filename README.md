@@ -1,6 +1,6 @@
 # LiteLLM Agent MCP Server
 
-<!-- mcp-name: io.github.shin-bot-litellm/litellm-mcp -->
+<!-- mcp-name: io.github.BerriAI/litellm-mcp -->
 
 **Give your AI agent access to 100+ LLMs.**
 
@@ -54,7 +54,7 @@ pip install litellm-agent-mcp
 ### From Source
 
 ```bash
-git clone https://github.com/shin-bot-litellm/litellm-agent-mcp
+git clone https://github.com/BerriAI/litellm-agent-mcp
 cd litellm-agent-mcp
 pip install -e .
 ```
