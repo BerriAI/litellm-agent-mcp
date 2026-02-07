@@ -7,12 +7,12 @@
     "url": "https://github.com/BerriAI/litellm-agent-mcp",
     "source": "github"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "litellm-mcp",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "transport": {
         "type": "stdio"
       },
