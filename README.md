@@ -1,5 +1,7 @@
 # LiteLLM Agent MCP Server
 
+<!-- mcp-name: io.github.shin-bot-litellm/litellm-mcp -->
+
 **Give your AI agent access to 100+ LLMs.**
 
 This MCP server lets AI agents (Claude Code, Cursor, etc.) call any LLM through LiteLLM's unified API. Stop being limited to one model — use the right model for each task.

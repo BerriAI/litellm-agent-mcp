@@ -1,3 +1,5 @@
 -e .venv/
 dist/
 *.egg-info/
+-e .mcpregistry_*
+mcp-publisher

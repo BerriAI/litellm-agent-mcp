@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.shin-bot-litellm/litellm-mcp",
-  "description": "Give AI agents access to 100+ LLMs through LiteLLM. Call any model, compare outputs, get recommendations.",
+  "description": "Give AI agents access to 100+ LLMs. Call any model, compare outputs.",
   "repository": {
     "url": "https://github.com/shin-bot-litellm/litellm-agent-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "litellm-mcp",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "transport": {
         "type": "stdio"
       },
